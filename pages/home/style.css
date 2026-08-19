@@ -140,7 +140,7 @@ body {
     display: flex;
     align-items: flex-end;
     justify-content: center;
-    background-image: url(/assets/garagem.png);
+    background-image: url(../../assets/garagem.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
